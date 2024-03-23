@@ -14,10 +14,10 @@ The proposed circuit is high gain operation amplifier designed for SkyWater 130 
 | Load Capacitance                    |.    |         |         30 |     pF |       |
 | Total Harmonic Distortion.          |     |     --- |        --- |      % | At nominal output power |
 | Signal-to-Noise Ratio               |  ---|     --- |.       --- |.    dB | |
-| Output Voltage Swing                | 100 |.        |       4910 |     mV |At 5 kOhms maximum load |
+| Output Voltage Swing                | 3   |.        |       4910 |     mV |At 5 kOhms maximum load |
 | Output Voltage Swing.               |  ---|         |        --- |     mV | At 50 kOhms load |
 | Power Consumption (Enabled)         |     |         |.       --- |     mA | At 5 kOhms maximum load |
-| Power Consumption (No load)         |     |         |       1020 |     uA | |
+| Power Consumption (No load)         |     |         |       865  |     uA | |
 | Power Consumption (Disabled).       |     |     --- |.       --- |     nA | |
 | PSRR (Power Supply Rejection Ratio) |     |     27  |            |     dB | |
 | CMRR (Common mode Rejection Ratio)  |     |.    137 |.           |     dB | |
