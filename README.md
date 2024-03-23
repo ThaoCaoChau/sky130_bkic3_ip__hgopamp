@@ -14,19 +14,18 @@ The proposed circuit is high gain operation amplifier designed for SkyWater 130 
 | Load Capacitance                    |.    |         |         30 |     pF |       |
 | Total Harmonic Distortion.          |     |     --- |        --- |      % | At nominal output power |
 | Signal-to-Noise Ratio               |  ---|     --- |.       --- |.    dB | |
-| Output Voltage Swing                | 100 |.        |       2500 |     mV |At 5 kOhms maximum load |
-| Output Voltage Swing.               |  10 |         |        --- |     mV | At 50 kOhms load |
+| Output Voltage Swing                | 100 |.        |       4910 |     mV |At 5 kOhms maximum load |
+| Output Voltage Swing.               |  ---|         |        --- |     mV | At 50 kOhms load |
 | Power Consumption (Enabled)         |     |         |.       --- |     mA | At 5 kOhms maximum load |
 | Power Consumption (No load)         |     |         |       1020 |     uA | |
 | Power Consumption (Disabled).       |     |     --- |.       --- |     nA | |
-| PSRR (Power Supply Rejection Ratio) |     |         |            |     dB | |
-| CMRR (Common mode Rejection Ratio)  |     |.    109 |.           |     dB | |
-| Gain Bandwidth Product.             |     |.    31  |.           |    MHz | |
-| Open loop gain                      |     |.    100 |.           |     dB | |Without load 
-| Open loop gain                      |     |.    98  |.           |     dB |  With load 5kOhms & 30pF capacitor 
+| PSRR (Power Supply Rejection Ratio) |     |     27  |            |     dB | |
+| CMRR (Common mode Rejection Ratio)  |     |.    137 |.           |     dB | |
+| Gain Bandwidth Product.             |     |.    15  |.           |    MHz | |
+| Open loop gain                      |     |.    120 |.           |     dB |  With load 5kOhms & 30pF capacitor 
 | Phase margin                        |     |.     90 |.           |      ° | |
 | Wakeup time (ena transition 0 to 1) |     |     --- |.           |.    ns | |
-| Common-mode input voltage           | 800 |.    --- |.      3.9  |      V | Rail-to-rail operation |
+| Common-mode input voltage           |   0 |.    --- |.      5    |      V | Rail-to-rail operation |
 | Equivalent Input Noise              |     |.        |.       --- | nV/√Hz | At 4kOhms maximum load, measured at 10kHz |
 
 
